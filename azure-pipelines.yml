@@ -29,4 +29,4 @@ steps:
     configuration: '$(buildConfiguration)'
 
 - script: |
-    ls -la
+    ls -la bin\Debug\
